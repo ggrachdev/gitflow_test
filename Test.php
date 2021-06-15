@@ -8,6 +8,6 @@
 class Test {
     //put your code here
     public static function test() {
-        
+        echo 13;
     }
 }
